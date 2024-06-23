@@ -13,5 +13,5 @@ An interactive Android game that simulates a piano keyboard, allowing users to p
 - Customizable keyboard layout
 - Save and playback your own compositions
 
-## Screenshots
-![Screenshot 1] ![image](https://github.com/nviamx/Piano-Game/assets/119315159/cec99d59-a397-41b8-ab83-ac3246ddcae7)
+## Screenshot
+ ![image](https://github.com/nviamx/Piano-Game/assets/119315159/cec99d59-a397-41b8-ab83-ac3246ddcae7)
